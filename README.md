@@ -1,2 +1,2 @@
 # clairvoyance
-This is the official website for clairvoyance
+This is the official website for clairvoyance.
